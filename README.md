@@ -3,6 +3,10 @@
 
 # h1
 *this is italic*
+__bold__
+
 1. Item 1
 1. Item 2
-![starwarslogo](../../web/img/cu-boulder-atlas)
+	1. Item 2a
+	1. Item 2b
+![atlas](../../web/img/cu-boulder-atlas.jpg)
