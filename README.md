@@ -9,7 +9,6 @@ __bold__
 1. Item 2
 	1. Item 2a
 	1. Item 2b
-![atlas](/../../web/img/cu-boulder-atlas.jpg)
 
 As Fergie said:
 > Boys just come and go
